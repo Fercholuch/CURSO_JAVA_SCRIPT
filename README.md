@@ -1,2 +1,0 @@
-# CURSO_JAVA_SCRIPT
-curso
